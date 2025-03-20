@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/button";
 
 export const Navbar = () => {
   return (
-    <div className="flex justify-around  ">
+    <div className="flex justify-around">
       <div className="flex items-center gap-2 text-blue-900">
         <TbMovie className="text-[#4338CA] size-5" />
         <p className="text-[#4338CA] text-4 font-bold leading-5">Movie Z</p>
